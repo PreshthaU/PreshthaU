@@ -4,12 +4,12 @@ I'm an aspiring data analyst who’s driven by a deep curiosity and the thrill o
 
 My background isn’t traditional for a role in data, but I’ve spent the past year learning everything I can: through coursework, hands-on projects, and a lot of late nights spent staring at spreadsheets and Python scripts. Despite the ups and downs, I’m still here, still excited, and doing everything I can to turn this into a career I love.
 
-P.S. This portfolio is a work in progress, but unlike some of my crochet projects, it's going to turn out great. 
+P.S. This portfolio is still a work in progress, but it reflects both my learning journey and my commitment to growing as a data analyst.
 
 ### 🔎 What I'm Good At
   * **Tools & Languages**: Excel, SQL, Python (NumPy, Matplotlib, Pandas), Tableau, some experience with Scikit-learn, TensorFlow, and CNNs
   * **Soft Skills**: Leadership, communication, teamwork, and presentations
-  * **Learning Mindset**: I love asking questions, and I'm comfortable navigating ambiguity—both of which are invaluable when you're self-taught
+  * **Learning Mindset**: I love asking questions, and I'm comfortable navigating ambiguity
 
 ### 📁 Projects
  * 🗒️ **[User Engagement Analysis (Excel)](https://github.com/PreshthaU/Customer_Engagement_Analysis-Excel)**: Using sample data from 365 Data Science
